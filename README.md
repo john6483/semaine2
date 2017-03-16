@@ -12,5 +12,14 @@ HTML et CSS  -->
     <li></li>
 
 </ul>
+<br>
+<footer>
+Adresse:
+3 rue de Sologne
+18000 Bourges
+<br>
+Mobile: 06 88 81 20 68
+</footer>
+
 </body>
 </html>
