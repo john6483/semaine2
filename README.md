@@ -1,10 +1,11 @@
 # semaine2
 <-- comprendre le web
 HTML et CSS  -->
-<--EXERCICE 3 Faire 1 CV en HTLM -->
+<!--EXERCICE 3 Faire 1 CV en HTLM -->
 <html>
 
 <head>
+
 <style>
 p {
   color: blue;
