@@ -5,6 +5,7 @@ HTML et CSS  -->
 <html>
 <head> HANG Développeur Web</head>
 <body>
+<h4>EXPERIENCE PROFESSIONNELLE</h4>
 <ul>
     <li>Développeur AS400, IFR Blagnac</li>
     <li>Développeur COBOL, LCL Puteaux La défense</li>
@@ -14,6 +15,7 @@ HTML et CSS  -->
     <li>Stage de DEA, C E A, Saclay</li>
 
 </ul>
+<h4>FORMATION</h4>
 <ul>
   <li>D E A maths</li>
   <li>Maîtrise de Maths Appliquéees</li>
