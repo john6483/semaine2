@@ -6,7 +6,7 @@ HTML et CSS  -->
 
 <head> HANG Développeur Web
 <style>
-p { color:blue;}
+p { color: blue;}
 </style>
 </head>
 <body>
