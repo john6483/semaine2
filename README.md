@@ -5,12 +5,13 @@ HTML et CSS  -->
 <html>
 
 <head>
-<title>HANG Développeur Web</title>
 <style>
 p {
   color: blue;
 }
 </style>
+<title>HANG Développeur Web</title>
+
 </head>
 <body>
 <p><h4>EXPERIENCE PROFESSIONNELLE</h4></p>
