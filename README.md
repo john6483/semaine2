@@ -5,9 +5,11 @@ HTML et CSS  -->
 <html>
 
 <head>
-<titre>HANG Développeur Web</titre>
+<title>HANG Développeur Web</title>
 <style>
-p { color: blue;}
+p {
+  color: blue;
+}
 </style>
 </head>
 <body>
