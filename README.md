@@ -5,12 +5,6 @@ HTML et CSS  -->
 <html>
 
 <head>
-
-<style>
-p {
-  color: blue;
-}
-</style>
 <title>HANG Développeur Web</title>
 
 </head>
