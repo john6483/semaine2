@@ -8,7 +8,7 @@ HTML et CSS  -->
     <li>Développeur AS400, IFR Blagnac</li>
     <li>Développeur COBOL, LCL Puteaux La défense</li>
     <li>Développeur AS400, UPS Paris 10</li>
-    <li>Développeur Micro-informatique, Domaine Natter, Mpntigny Centre</li>
+    <li>Développeur Micro-informatique, Domaine Natter, Montigny Centre</li>
     <li></li>
 
 </ul>
