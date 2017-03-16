@@ -3,9 +3,14 @@
 HTML et CSS  -->
 <--EXERCICE 3 Faire 1 CV en HTLM -->
 <html>
-<head> HANG Développeur Web</head>
+
+<head> HANG Développeur Web
+<style>
+p { color:blue;}
+</style>
+</head>
 <body>
-<h4>EXPERIENCE PROFESSIONNELLE</h4>
+<p><h4>EXPERIENCE PROFESSIONNELLE</h4></p>
 <ul>
     <li>Développeur AS400, IFR Blagnac</li>
     <li>Développeur COBOL, LCL Puteaux La défense</li>
@@ -15,7 +20,7 @@ HTML et CSS  -->
     <li>Stage de DEA, C E A, Saclay</li>
 
 </ul>
-<h4>FORMATION</h4>
+<p><h4>FORMATION</h4></p>
 <ul>
   <li>D E A maths</li>
   <li>Maîtrise de Maths Appliquéees</li>
@@ -31,6 +36,5 @@ Adresse:
 <br>
 Mobile: 06 88 81 20 68
 </footer>
-
 </body>
 </html>
