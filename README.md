@@ -9,8 +9,16 @@ HTML et CSS  -->
     <li>Développeur COBOL, LCL Puteaux La défense</li>
     <li>Développeur AS400, UPS Paris 10</li>
     <li>Développeur Micro-informatique, Domaine Natter, Montigny Centre</li>
-    <li></li>
+    <li>Stage Mastère, Sextant avionique, Villacoublay</li>
+    <li>Stage de DEA, C E A, Saclay</li>
 
+</ul>
+<ul>
+  <li>D E A maths</li>
+  <li>Maîtrise de Maths Appliquéees</li>
+  <li>Licence de Maths</li>
+  <li>D E U G A SSM</li>
+  <li>Bac C , Lycée Lavoisier Paris</li>
 </ul>
 <br>
 <footer>
