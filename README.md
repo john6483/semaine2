@@ -5,7 +5,7 @@ HTML et CSS  -->
 <html>
 
 <head>
-<h3>HANG Développeur Web</h3>
+<h2>HANG Développeur Web</h2>
 
 </head>
 <body>
