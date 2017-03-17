@@ -5,7 +5,11 @@ HTML et CSS  -->
 <html>
 
 <head>
+
 <h4>HANG Développeur Web</h4>
+<style type="text/css">
+p { color: blue;}
+</style>
 
 </head>
 <body>
