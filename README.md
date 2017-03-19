@@ -13,7 +13,8 @@ p { color: blue;}
 
 </head>
 <body>
-<p><h4>EXPERIENCE PROFESSIONNELLE</h4></p>
+<p style="text-align:center; color:red">
+<h4>EXPERIENCE PROFESSIONNELLE</h4></p>
 <ul>
     <li>Développeur AS400, IFR Blagnac</li>
     <li>Développeur COBOL, LCL Puteaux La défense</li>
@@ -23,7 +24,8 @@ p { color: blue;}
     <li>Stage de DEA, C E A, Saclay</li>
 
 </ul>
-<p><h4>FORMATION</h4></p>
+<p style="text-align:center; color:red">
+<h4>FORMATION</h4></p>
 <ul>
   <li>D E A maths</li>
   <li>Maîtrise de Maths Appliquéees</li>
