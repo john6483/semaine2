@@ -27,6 +27,8 @@ p { color: blue;}
 <p style="text-align:center; color:red">
 <h4>FORMATION</h4></p>
 <ul>
+  <li>Codeur web 18, BGE Bourges, 2017</li>
+  <li>Webmaster, CNAM centre, 2012</li>
   <li>D E A maths</li>
   <li>Maîtrise de Maths Appliquéees</li>
   <li>Licence de Maths</li>
