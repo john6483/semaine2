@@ -40,6 +40,8 @@ Adresse:
 18000 Bourges
 <br>
 Mobile: 06 88 81 20 68
+<br>
+Mail:f.hang@laposte.net
 </footer>
 </body>
 </html>
