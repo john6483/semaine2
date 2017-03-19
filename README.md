@@ -7,9 +7,9 @@ HTML et CSS  -->
 <head>
 
 <h4>HANG Développeur Web</h4>
-<style type="text/css">
+<!-- <style type="text/css">
 p { color: blue;}
-</style>
+</style>  -->
 
 </head>
 <body>
