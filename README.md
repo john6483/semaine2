@@ -41,7 +41,7 @@ p { color: blue;}
 3 rue de Sologne
 18000 Bourges
 <br>
-<b>Mobile:</b> 06 88 81 20 68
+<b>Mobile:</b> 06 95 71 75 50 ou 06 88 81 20 68
 <br>
 <b>Mail:</b> f.hang@laposte.net
 </footer>
