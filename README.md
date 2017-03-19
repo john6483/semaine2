@@ -37,13 +37,13 @@ p { color: blue;}
 </ul>
 <br>
 <footer>
-Adresse:
+<b>Adresse:</b>
 3 rue de Sologne
 18000 Bourges
 <br>
-Mobile: 06 88 81 20 68
+<b>Mobile:</b> 06 88 81 20 68
 <br>
-Mail:f.hang@laposte.net
+<b>Mail:</b> f.hang@laposte.net
 </footer>
 </body>
 </html>
