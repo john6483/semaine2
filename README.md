@@ -1,7 +1,11 @@
 <!-- semaine2 -->
 <!-- comprendre le web
 HTML et CSS  -->
-<!--EXERCICE 3 Faire 1 CV en HTLM -->
+<!--EXERCICE 1, 2 et 3 apprendre HTML et CSS semaine 2
+Faire exercice 1 et 2 puis 3  CV en HTLM
+https://www.codecademy.com/users/john6483/achievements
+
+-->
 <html>
 
 <head>
