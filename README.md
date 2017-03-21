@@ -1,7 +1,7 @@
 
 Semaine2
-Comprendre le web
-Apprendre le HTML et CSS
+Comprendre le web<br>
+Apprendre le HTML et CSS<br>
 
 Faire exercice 1 et 2 puis 3  CV en HTLM
 Lien vers mes badges:<br>
